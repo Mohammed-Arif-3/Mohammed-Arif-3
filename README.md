@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedarif75&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedarif75" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@mohammedarifbi9" target="blank"><img src="https://img.shields.io/twitter/follow/@mohammedarifbi9?logo=twitter&style=for-the-badge" alt="@mohammedarifbi9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mohammedarifbi9" target="blank"></a> </p>
 
-- 🌱 I’m currently learning Core Java and DSA. **Core Java and DSA**
+- 🌱 I’m currently learning Core **Core Java and DSA**
 
 - 👯 I’m looking to collaborate on **UI designing**
 
