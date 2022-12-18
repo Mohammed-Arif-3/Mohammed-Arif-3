@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mohammedarifbi9" target="blank"></a> </p>
 
-- 🌱 I’m currently learning Core **Core Java and DSA**
+- 🌱 I’m currently learning **Core Java and DSA**
 
 - 👯 I’m looking to collaborate on **UI designing**
 
