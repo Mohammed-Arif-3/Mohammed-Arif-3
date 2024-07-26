@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Arif</h1>
-<h3 align="center">I am a Junior Year student from the background of Information Technology and I intend to be work as UI/UX designer.</h3>
+<h3 align="center">I am a Graduate student from the background of Information Technology and I intend to be work as UI/UX designer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedarif75&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedarif75" /> </p>
