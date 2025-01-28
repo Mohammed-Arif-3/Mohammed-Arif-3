@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **UI designing**
 
-- 📫 How to reach me **arifeducation799@gmail.com**
+- 📫 How to reach me **mohammedarif6974@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
